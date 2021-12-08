@@ -1,0 +1,3 @@
+# sqllite
+
+"# buyukVeri,python"
